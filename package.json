@@ -1,0 +1,14 @@
+{
+  "name": "requesttest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "unirest": "^0.6.0"
+  }
+}
